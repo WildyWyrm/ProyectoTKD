@@ -1,0 +1,19 @@
+/* #galeria h2{
+} */
+
+/* #galeria{
+    height: 100%;
+    width: 100%;
+    padding: 150px;
+    margin-bottom: 2;
+    background-color: rgb(30, 35, 35);
+} */
+
+#galeria{
+    width: 1100px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
